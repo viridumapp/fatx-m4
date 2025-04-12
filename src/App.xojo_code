@@ -45,7 +45,7 @@ Inherits DesktopApplication
 		  
 		  //StartHere.show
 		  
-		  ShowURL("https://viridum.cc/fatx-m4/docu/")
+		  ShowURL("https://viridum.cc/fatx-m4/docs/")
 		End Function
 	#tag EndMenuHandler
 

@@ -2,8 +2,8 @@
 Image fatx128
 	#tag ImageRepresentation
 		SaveInfo = APHRcwECAQAAAAAsL2hvbWUvZGZyYW5jby9Yb2pvL0ZhdHhWMy9JbWFnZXMvZmF0eDEyOC5wbmcDAAAAAAEBBAAAAAABAAAAAAAAAA==
-		FullPath = /Images/fatx128.png
-		PartialPath = \Images\fatx128.png
+		FullPath = ../Images/fatx128.png
+		PartialPath = ..\Images\fatx128.png
 		#tag ImageSpecification
 			Comment = 
 			Device = 31

@@ -2,8 +2,8 @@
 Image TopbarFatxM4
 	#tag ImageRepresentation
 		SaveInfo = APHRcwECAQAAAAAyL2hvbWUvZGZyYW5jby9Yb2pvL0ZhdHhWMy9JbWFnZXMvVG9wYmFyRmF0eC1NNC5wbmcDAAAAAAEBBAAAAAABAAAAAAAAAA==
-		FullPath = /Images/TopbarFatx-M4.png
-		PartialPath = \Images\TopbarFatx-M4.png
+		FullPath = ../Images/TopbarFatx-M4.png
+		PartialPath = ..\Images\TopbarFatx-M4.png
 		#tag ImageSpecification
 			Comment = 
 			Device = 31

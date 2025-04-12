@@ -7,7 +7,7 @@
 
 ## 🖼️ Screenshot
 
-![Fatx-M4 Screenshot](Images/screenshot.png)
+![Fatx-M4 Screenshot](https://github.com/viridumapp/fatx-m4/blob/main/Images/Screenshot.png)
 
 ---
 

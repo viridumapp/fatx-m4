@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 
-```markdown
 # Fatx-M4  Weight loss App (V3)
 
-**Fatx-M4** is a Linux-based weight loss tracking tool built with the GNOME desktop in mind.  
-It runs smoothly on most Debian-based distributions (x86-64bit).
+**Fatx-M4** is a Linux-based weight loss tracking tool built with the GNOME desktop in mind. It runs smoothly on most Debian-based distributions (x86-64bit).
 
 ---
 

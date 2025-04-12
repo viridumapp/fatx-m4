@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ```markdown
 # Fatx-M4  Weight loss App (V3)
@@ -67,3 +68,6 @@ Feel free to submit issues or pull requests. Help is always welcome!
 ---
 
 Let me know if you want to localize it, add screenshots, or include installation tips for other distros.
+=======
+# Fatx-M4 Weight Loss App
+>>>>>>> 5c6fa30c90eadc6933535d082a5d457f5cb2169b

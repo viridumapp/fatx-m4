@@ -1,5 +1,5 @@
 
-# Fatx-M4  Weight loss App (V3)
+# Fatx-M4  Weight Loss App (V3)
 
 **Fatx-M4** is a Linux-based weight loss tracking tool built with the GNOME desktop in mind. It runs smoothly on most Debian-based distributions (x86-64bit).
 
@@ -41,6 +41,10 @@ Grab the latest `.deb` package from the [Releases page](https://github.com/virid
 
    From there, you can edit, run, or build the app for your system.
 
+4. **Build the database from the fatx.sqlite.sql**
+   Either place the fatx.sqlite in the /var/opt/fatx/ folder,
+   or point to a prefered location in code and place it there.
+
 ---
 
 ## ✅ Requirements
@@ -60,11 +64,4 @@ Grab the latest `.deb` package from the [Releases page](https://github.com/virid
 ## 🙌 Contribute
 
 Feel free to submit issues or pull requests. Help is always welcome!
-```
 
----
-
-Let me know if you want to localize it, add screenshots, or include installation tips for other distros.
-=======
-# Fatx-M4 Weight Loss App
->>>>>>> 5c6fa30c90eadc6933535d082a5d457f5cb2169b

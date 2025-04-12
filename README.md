@@ -7,6 +7,12 @@ It runs smoothly on most Debian-based distributions (x86-64bit).
 
 ---
 
+## 🖼️ Screenshot
+
+![Fatx-M4 Screenshot](Images/screenshot.png)
+
+---
+
 ## 🔽 Download
 
 Grab the latest `.deb` package from the [Releases page](https://github.com/viridumapp/fatx-m4/releases) for easy installation.
